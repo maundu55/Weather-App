@@ -27,7 +27,7 @@ const checkWeather = async (city) =>{
              weatherIcon.src = "images/clouds.png"
          }
          else if(data.weather[0].main == "Clear"){
-             weatherIcon.src = "images/clouds.png"
+             weatherIcon.src = "images/clear-sky.png"
          }
          else if(data.weather[0].main == "Rain"){
              weatherIcon.src = "images/rainy.png"
