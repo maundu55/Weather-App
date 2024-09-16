@@ -1,4 +1,4 @@
-const apiKey ="78864d879e25d6f9d32610ba5fb3193f";
+const apiKey ="";
 const apiUrl ="";
 
 const checkWeather = async () =>{
